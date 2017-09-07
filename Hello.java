@@ -11,7 +11,7 @@ class Hello {
 
 		this.torgan();
 
-    }
+    
 		this.pattanan();
 				this.pattanan();
 
