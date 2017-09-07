@@ -4,8 +4,12 @@ class Hello {
         System.out.println("Hello! We are:");
 
         this.Krerk();
+
 		this.nawarinImarom();
 		this.Piyapat();
+
+
+		this.torgan();
 
     }
 		this.pattanan();
@@ -149,10 +153,19 @@ class Hello {
         System.out.println("Trainee - Pilai");
     }
 	
+
 	
 	
 	private void nawarinImarom(){
 		System.out.println("==== Nawarin Imarom ====");
 	}
 	
+
+	 private void torgan() {
+        System.out.println("torgan pooinaoy");
+        System.out.println("----------------The End----------------");
+    }
+	
+	
+
 }
