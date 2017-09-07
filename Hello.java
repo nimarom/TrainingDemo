@@ -5,7 +5,7 @@ class Hello {
 
         this.Krerk();
 		this.nawarinImarom();
-    }
+		
 		this.pattanan();
 				this.pattanan();
 
